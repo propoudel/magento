@@ -1,0 +1,8 @@
+var/cache/**/*
+var/session/**/*
+var/session/*
+var/log/*
+var/locks/*
+var/report/*
+.idea
+.idea/*
